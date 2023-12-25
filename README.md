@@ -3,7 +3,7 @@ Extracting Data from SofaScore to back test on it and find potential edge on bet
 
 ![Graph Displaying Results](output.png)
 
-- Goals for Project -
+ **Goals for Project** 
 -----------------------
 
 - Find a way to establish which games have predictaive scoring

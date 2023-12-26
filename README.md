@@ -10,7 +10,8 @@
  **Goals for Project** 
 -----------------------
 
-- Find a way to establish which games have predictaive scoring
+- Find a way to establish which games have predictaive scoring (Completed 12/26/2023)
+
 
 - Create a database to store all of the games
 
